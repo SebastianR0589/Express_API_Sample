@@ -1,0 +1,16 @@
+{
+  "name": "express_api_sample",
+  "version": "1.0.0",
+  "description": "a express api sample for a dataset of startups",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sebastian Riedel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
