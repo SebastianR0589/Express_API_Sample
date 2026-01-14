@@ -1,24 +1,40 @@
 # Sebastian Riedel Portfolio
+# Express.js API – Startup Search
 
-Welcome to my portfolio! Here you'll find some of the web projects I've built.
+This project is a lightweight REST-style API built with Express.js to practice handling query parameters, request processing and data filtering on the server side.
+
+The API provides startup-related data based on query parameters supplied by the client, allowing flexible filtering and retrieval of results.
 
 ---
 
-### Express.js API sample startups
-**Description:**  
-This project is a simple Express.js API which provides drifferent startups data depending on the Jquery parameters the user enters.
+## Project Goals
+- Build a simple API using Express.js  
+- Handle and validate query parameters  
+- Filter and return data based on client input  
+- Structure routes and controllers in a clear way  
 
+---
 
-**GitHub Repo:** [Link to repo](https://github.com/SebastianR0589/Express_API_Sample)
+## Features
+- Query-based data retrieval  
+- Server-side filtering logic  
+- Express routing and controller structure  
+- JSON-based API responses  
 
-**Screenshots:**
-![Screenshot 1](./screenshots/server.PNG)
-![Screenshot 2](./screenshots/controller.PNG)
-![Screenshot 3](./screenshots/routes.PNG)
+---
 
-**Features:**
-- Fetch user search parameter
-- Give back data based upon search parameters
+## Tech Stack
+- Node.js  
+- Express.js  
 
-**Tech Stack:**  
-Express.js
+---
+
+## Screenshots
+![Server Setup](./screenshots/server.PNG)
+![Controller Logic](./screenshots/controller.PNG)
+![API Routes](./screenshots/routes.PNG)
+
+---
+
+## Repository
+GitHub Repository: [Link to repo](https://github.com/SebastianR0589/Express_API_Sample)
